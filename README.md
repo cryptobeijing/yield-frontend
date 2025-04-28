@@ -1,6 +1,6 @@
-# SEYIELD Frontend
+# YIELD Frontend
 
-Next.js frontend application for the SEYIELD DeFi platform.
+Next.js frontend application for the YIELD DeFi platform.
 
 ## Tech Stack
 
